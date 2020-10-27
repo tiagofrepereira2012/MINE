@@ -14,3 +14,5 @@ model = MineModel()
 model.compile(optimizer="adam")
 model.fit(x=[X, Z])
 ```
+
+![](MINE.png)
